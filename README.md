@@ -60,10 +60,10 @@ Después escribe `claude` e inicia sesión con tu cuenta.
 ## Paso 3 — Descarga el editor
 
 1. En esta página de GitHub pulsa el botón verde **Code** y luego **Download ZIP**.
-2. Descomprime el ZIP en **Documentos**. Te queda una carpeta llamada `Editor-de-IA-main`.
+2. Descomprime el ZIP en **Documentos**. Te queda una carpeta llamada `Editordevideos-main`.
    Puedes cambiarle el nombre, por ejemplo a `Mi-Editor`.
 
-> ¿Sabes usar Git? También puedes hacer `git clone https://github.com/alejo900327-code/Editor-de-IA.git`
+> ¿Sabes usar Git? También puedes hacer `git clone https://github.com/digitalmediaangels/Editordevideos.git`
 
 ## Paso 4 — Abre la carpeta en Claude Code (o Codex)
 
